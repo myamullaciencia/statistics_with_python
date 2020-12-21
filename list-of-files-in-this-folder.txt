@@ -1,0 +1,58 @@
+## CHAPTER 1 ##
+legal_weed_age_GSS2016_ch1.csv
+gss_codebook.pdf
+nhanes_2013_ch1.csv
+
+## CHAPTER 2 ##
+transgender_hc_ch2.csv
+brfss_2014_codebook.pdf 
+
+## CHAPTER 3 ##
+nhanes_2011_2012_ch3.csv
+fbi_deaths_2016_ch3.csv
+gun_publications_funds_2004_2015_ch3.csv
+nhanes_demographics_2012_codebook.html
+nhanes_auditory_2012_codebook.html
+
+## CHAPTER 4 ##
+pdmp_2017_kff_ch4.csv
+opioid_dist_to_facility_2017_ch4.csv
+opioid_county_codebook.xlsx
+
+## CHAPTER 5 ##
+pew_apr_19-23_2017_weekly_ch5.sav
+pew_voting_april_2017_codebook_ch5.pdf
+pew_voting_demographics_april_2017_codebook_ch5.docx
+pew_codebook_chap5_readme.txt
+
+## CHAPTER 6 ##
+nhanes_2015-2016_ch6.csv
+nhanes_demographics_20152016_codebook.html
+nhanes_examination_20152016_codebook.html
+
+## CHAPTER 7 ##
+gss2018.rda
+
+## CHAPTER 8 ## 
+water_educ_2015_who_unesco_ch8.csv
+2015-outOfSchoolRate-primarySecondary-ch8.xlsx
+
+## CHAPTER 9 ##
+dist_ssp_amfar_ch9.csv
+opioid_county_codebook.xlsx 
+opioid_dist_to_needle_exchange_2018.csv
+hiv_prevalence_amfar_ch9.csv
+opioid_script_rate_amfar_ch9.csv
+percent_unins_amfar_2016_ch9.csv
+metro_nonmetro_usda_ers_2015_ch9.csv
+
+## CHAPTER 10 ##
+pew_libraries_2016_cleaned_ch10.csv 
+pew_libraries_2016_codebook_ch10.docx 
+
+## CHAPTER 11 ## 
+stem-nsf-2017-ch11.xpt
+stem-nsf-2017-ch11-codebook.pdf 
+
+
+
